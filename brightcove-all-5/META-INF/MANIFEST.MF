@@ -4,8 +4,8 @@ Created-By: Apache Maven
 Built-By: alessandro.bonfatti
 Build-Jdk: 1.8.0_66
 Specification-Title: com.coresecure.brightcove.cq5 - brightcove-all
-Specification-Version: 5.1.2-SNAPSHOT
+Specification-Version: 5.1.4-SNAPSHOT
 Implementation-Title: com.coresecure.brightcove.cq5 - brightcove-all
-Implementation-Version: 5.1.2-SNAPSHOT
+Implementation-Version: 5.1.4-SNAPSHOT
 Implementation-Vendor-Id: com.coresecure.brightcove.cq5
 

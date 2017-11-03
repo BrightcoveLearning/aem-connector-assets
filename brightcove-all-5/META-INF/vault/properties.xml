@@ -4,9 +4,9 @@
 <comment>com.coresecure.brightcove.cq5 - brightcove-all</comment>
 <entry key="createdBy">alessandro.bonfatti</entry>
 <entry key="name">brightcove-all</entry>
-<entry key="created">2017-10-27T16:50:22.455-0400</entry>
+<entry key="created">2017-10-31T16:40:38.219-0400</entry>
 <entry key="groupId">com.coresecure.brightcove.cq5</entry>
-<entry key="version">5.1.2-SNAPSHOT</entry>
+<entry key="version">5.1.4-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">com.coresecure.brightcove.cq5</entry>
 <entry key="description">Builds a CQ package containing all components of the 'Adobe CQ5 Brightcove Connector API' project. Useful for
